@@ -1,1 +1,0 @@
-def ask_gemini(query): return 'Itinerary for: ' + query
